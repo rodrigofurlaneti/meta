@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Meta.Exame.Repositorio.dll.config
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Meta.Exame.Repositorio.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Meta.Exame.Repositorio.pdb
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Meta.Exame.Entidade.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\bin\Debug\Meta.Exame.Entidade.pdb
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\obj\Debug\Meta.Exame.Repositorio.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\obj\Debug\Meta.Exame.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\obj\Debug\Meta.Exame.Repositorio.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\obj\Debug\Meta.Exame.Repositorio.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Repositorio\obj\Debug\Meta.Exame.Repositorio.pdb

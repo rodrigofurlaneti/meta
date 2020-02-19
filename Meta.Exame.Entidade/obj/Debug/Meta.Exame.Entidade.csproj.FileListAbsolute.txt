@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\bin\Debug\Meta.Exame.Entidade.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\bin\Debug\Meta.Exame.Entidade.pdb
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\obj\Debug\Meta.Exame.Entidade.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\obj\Debug\Meta.Exame.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\obj\Debug\Meta.Exame.Entidade.dll
+C:\Users\Administrador\Desktop\Meta.Exame\Meta.Exame.Entidade\obj\Debug\Meta.Exame.Entidade.pdb
